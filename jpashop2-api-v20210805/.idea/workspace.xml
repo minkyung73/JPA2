@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5280ad9-cc4b-407f-9380-3e008db9e186" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../cote_python/greedy/ch3/ex3-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../cote_python/greedy/ch3/ex3-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/.idea/WorldOJ.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/A-3/1124-터널_통과하기_1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/A-3/1124-터널_통과하기_2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/A-3/1147-삼각형_판단2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/B/7-SEARCH1_3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/B/7-SEARCH1_3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/B/9-Bubble_sort" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/B/9-Bubble_sort.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/B/9-Insertion_sort" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/B/9-Insertion_sort.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/B/9-Merge_sort" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/B/9-Merge_sort.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/C/1353" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/C/1353.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/C/1354" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/C/1354.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/C/1355" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/C/1355.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/C/1356" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/C/1356.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/C/1357" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/C/1357.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/C/1370" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/C/1370.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/C/1371" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/C/1371.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/C/1372" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/C/1372.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/C/1375" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/C/1375.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/C/1386" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/C/1386.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/C/1430" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/C/1430.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/C/2721" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/C/2721.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/C/2762" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/C/2762.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/C/4832" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/C/4832.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/Java/hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/Java/hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/KOI/2L/문제A-약수_구하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/KOI/2L/문제B-주사위_게임.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/KOI/2L/문제C-가로수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/KOI/2L/문제D-숫자의_개수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/KOI/2L/문제E-색종이1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/KOI/2L/문제F-싸이클.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/KOI/2L/문제G-빵.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/KOI/3L/문제D-수열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/KOI/4M/4M_4804-개미.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WorldOJ/문제/4597-색종이2.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="jpashop" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RmEt1gHLw95hidGI9pW303509I" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/gimmingyeong/Library/CloudStorage/OneDrive-gachon.ac.kr/문서/2-Self_study/JPA/JPA2/jpashop2-api-v20210805/build.gradle",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "bca1a3c7e76694ec511b3a376fdc1a8e",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="JpashopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="jpashop.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="jpabook.jpashop.JpashopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5280ad9-cc4b-407f-9380-3e008db9e186" name="Changes" comment="" />
+      <created>1687847066523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687847066523</updated>
+      <workItem from="1687847067579" duration="407000" />
+      <workItem from="1687847496874" duration="2292000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
